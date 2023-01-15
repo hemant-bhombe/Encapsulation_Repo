@@ -21,12 +21,12 @@ public class Data1 extends Student1
 	c1.setAreaname("Karve Nagar");
 	
 		Test1 s1=new Test1();
-		s1.setId(1);
+		s1.setId(100);
 		s1.setName("Student1");
 		s1.setC(c1);
 
 		Test1 s2=new Test1();
-		s2.setId(2);
+		s2.setId(200);
 		s2.setName("Student2");
 		s2.setC(c1);
 			
